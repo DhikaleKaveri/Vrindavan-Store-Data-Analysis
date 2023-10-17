@@ -1,12 +1,12 @@
-Vrinda Store Data Analysis (2022)
+**Vrinda Store Data Analysis (2022)**
 
 I have used excel to analyse Vrinda Store Data. I built different charts and then made a automated dashboard using those charts. I have cleaned the data, process the data, analyse the data then generates the insights from the data. This project was created with the guidance of a YouTube tutorial by Rishabh Mishra. You can watch the tutorial here.
 
-Objective:
+**Objective:**
 
 Vrinda Store wants to create an Annual Sales Report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
-Sample Questions:
+**Sample Questions:**
 
 1.Compare the sales and orders using single chart
 
@@ -25,6 +25,6 @@ Sample Questions:
 8.Adult age group (30-49 years) is max contributing (~50%).
 
 
-Final Conclusion to improve Vrinda store sales:
+**Final Conclusion to improve Vrinda store sales:**
 
 Target women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
