@@ -18,11 +18,11 @@ Vrinda Store wants to create an Annual Sales Report for 2022. So that, Vrinda ca
 
 5.List top 10 states contributing to the sales?
 
-6.Relation between age and gender based on number
+6.Relation between age and gender based on number of orders.
 
 7.Which channel is contributing to maximum sales? 
 
-8.Adult age group (30-49 years) is max contributing (~50%).
+8.Highest saling Category.
 
 
 **Final Conclusion to improve Vrinda store sales:**
